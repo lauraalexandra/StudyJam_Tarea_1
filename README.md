@@ -17,4 +17,4 @@ http://github.com/lauraalexandra/StudyJam_Tarea_1.git
 
 Captura
 ---
-...proximamente 
+...proximamente
